@@ -1,0 +1,18 @@
+﻿Media & Technology Foundations
+Once Upon A MicroBit Project Concept Document
+Team Bruh
+Team Members: Kendall Johnson, Jennifer Williams, and Sharon Chang 
+Project Concept
+Narrative Treatment
+We chose Goldilocks and the three bears in the scene where she tests the beds. She tries one that is too soft, one that is too firm, and she finds one that is just right. We chose this scene because we have 3 members and we thought that it could be convenient to simulate beds with a pressure sensor.
+Storyboard
+          
+Enclosure 
+Mock Up
+          
+Hardware/Mechanism Adaption
+          
+Affordances
+
+
+We will have the box ordered in rooms with an entrance that ensures that the player cannot get to the “just right” bed on the first go, and maybe have a text that says “i'm sleepy” so they know to try the beds that will be hiding our microbits.
